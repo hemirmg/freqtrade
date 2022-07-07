@@ -1,0 +1,3 @@
+###Descomprimir Zip###
+cd freqtrade
+unzip freqtrade.zip
